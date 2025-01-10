@@ -206,7 +206,9 @@ main {
     object-fit: cover;
     transition: var(--transition);
 }
-
+.product-features{
+margin:7%;
+}
 .product-card:hover .product-image img {
     transform: scale(1.05);
 }
