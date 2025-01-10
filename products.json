@@ -1,0 +1,99 @@
+{
+    "products": {
+        "1": {
+            "name": "7-in-1 Smart Charging Station",
+            "originalPrice": 89.99,
+            "currentPrice": 53.99,
+            "discount": 40,
+            "mainImage": "https://img.kwcdn.com/product/fancy/077c402e-31ce-4958-9daa-fc3d4fce7d69.jpg",
+            "thumbnails": [
+                "https://img.kwcdn.com/product/fancy/077c402e-31ce-4958-9daa-fc3d4fce7d69.jpg",
+                "https://img.kwcdn.com/product/fancy/da1323e3-bb52-42ef-a3d6-4fbade418845.jpg",
+                "https://img.kwcdn.com/product/fancy/e3444e4b-b3aa-4af9-9ee5-c119df0b5803.jpg"
+            ],
+            "badges": ["new", "bestseller"],
+            "features": [
+                { "icon": "fa-bolt", "text": "15W Fast Charging" },
+                { "icon": "fa-clock", "text": "Digital Clock" },
+                { "icon": "fa-moon", "text": "Night Light" }
+            ],
+            "description": "The 7-in-1 Smart Charging Station is the ultimate charging solution for all your devices. With 15W fast charging capability, digital clock display, and ambient night light, it's perfect for your bedside table or office desk."
+        },
+        "2": {
+            "name": "Multi-function Wireless Charger",
+            "originalPrice": 69.99,
+            "currentPrice": 45.49,
+            "discount": 35,
+            "mainImage": "https://img.kwcdn.com/product/fancy/da1323e3-bb52-42ef-a3d6-4fbade418845.jpg",
+            "thumbnails": [
+                "https://img.kwcdn.com/product/fancy/da1323e3-bb52-42ef-a3d6-4fbade418845.jpg",
+                "https://img.kwcdn.com/product/fancy/077c402e-31ce-4958-9daa-fc3d4fce7d69.jpg",
+                "https://img.kwcdn.com/product/fancy/e3444e4b-b3aa-4af9-9ee5-c119df0b5803.jpg"
+            ],
+            "badges": ["trending"],
+            "features": [
+                { "icon": "fa-bolt", "text": "Fast Charging" },
+                { "icon": "fa-mobile-alt", "text": "Multi-Device" }
+            ],
+            "description": "Experience versatile charging with our Multi-function Wireless Charger. Designed for convenience and efficiency, this charger supports multiple devices simultaneously."
+        },
+        "3": {
+            "name": "3-in-1 Wireless Charger with Clock",
+            "originalPrice": 79.99,
+            "currentPrice": 43.99,
+            "discount": 45,
+            "mainImage": "https://img.kwcdn.com/product/fancy/e3444e4b-b3aa-4af9-9ee5-c119df0b5803.jpg",
+            "thumbnails": [
+                "https://img.kwcdn.com/product/fancy/e3444e4b-b3aa-4af9-9ee5-c119df0b5803.jpg",
+                "https://img.kwcdn.com/product/fancy/077c402e-31ce-4958-9daa-fc3d4fce7d69.jpg",
+                "https://img.kwcdn.com/product/fancy/da1323e3-bb52-42ef-a3d6-4fbade418845.jpg"
+            ],
+            "badges": ["trending"],
+            "features": [
+                { "icon": "fa-bolt", "text": "15W Fast Charging" },
+                { "icon": "fa-clock", "text": "Digital Display" },
+                { "icon": "fa-mobile", "text": "Magnetic Mount" }
+            ],
+            "description": "The 3-in-1 Wireless Charger combines style with functionality. Features a clear digital display and magnetic mounting system for perfect device alignment."
+        },
+        "4": {
+            "name": "25W Fast Wireless Charger",
+            "originalPrice": 59.99,
+            "currentPrice": 41.99,
+            "discount": 30,
+            "mainImage": "https://img.kwcdn.com/product/fancy/51feb687-3c01-41b5-baec-db5867e7eb72.jpg",
+            "thumbnails": [
+                "https://img.kwcdn.com/product/fancy/51feb687-3c01-41b5-baec-db5867e7eb72.jpg",
+                "https://img.kwcdn.com/product/fancy/077c402e-31ce-4958-9daa-fc3d4fce7d69.jpg",
+                "https://img.kwcdn.com/product/fancy/e3444e4b-b3aa-4af9-9ee5-c119df0b5803.jpg"
+            ],
+            "badges": ["fast-charge"],
+            "features": [
+                { "icon": "fa-bolt", "text": "25W Power" },
+                { "icon": "fa-shield-alt", "text": "Safe Charging" },
+                { "icon": "fa-mobile-alt", "text": "Universal Compatibility" }
+            ],
+            "description": "Experience lightning-fast charging with our 25W Fast Wireless Charger. Equipped with advanced safety features and universal device compatibility, this charger delivers maximum power while ensuring your devices stay protected."
+        },
+        "5": {
+            "name": "Sleek 3-in-1 Wireless Charger",
+            "originalPrice": 99.99,
+            "currentPrice": 49.99,
+            "discount": 50,
+            "mainImage": "https://img.kwcdn.com/product/fancy/3e900b11-6d89-452f-a376-10a8bb95e963.jpg",
+            "thumbnails": [
+                "https://img.kwcdn.com/product/fancy/3e900b11-6d89-452f-a376-10a8bb95e963.jpg",
+                "https://img.kwcdn.com/product/fancy/da1323e3-bb52-42ef-a3d6-4fbade418845.jpg",
+                "https://img.kwcdn.com/product/fancy/077c402e-31ce-4958-9daa-fc3d4fce7d69.jpg"
+            ],
+            "badges": ["new", "premium"],
+            "features": [
+                { "icon": "fa-bolt", "text": "15W Fast Charging" },
+                { "icon": "fa-clock", "text": "Digital Clock" },
+                { "icon": "fa-mobile", "text": "Magnetic Mount" },
+                { "icon": "fa-palette", "text": "Modern Design" }
+            ],
+            "description": "The Sleek 3-in-1 Wireless Charger combines modern aesthetics with powerful functionality. Its minimalist design features a digital clock display, magnetic mounting system, and supports fast charging for all your devices. Perfect for those who value both style and performance."
+        }
+    }
+} 
